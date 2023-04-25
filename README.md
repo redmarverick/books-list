@@ -95,7 +95,7 @@ In order to run this project you need:
 In order to clone this repository to your desired folder, run the commands below on your console:
 
 ```sh
-    git clone https://github.com/Alejuda/Awesome-books.git
+    git clone https://github.com/redmarverick/books-list.git
 ```
 
 ### Install
