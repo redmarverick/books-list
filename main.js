@@ -71,7 +71,7 @@ class BooksArray extends Array {
       const book = booksArray.addBook(title, author);
       localStorage.setItem("books", JSON.stringify(booksArray));
       const li = document.createElement("li");
-      li.textContent = `${book.title} by ${book.author}, ID: ${book.id}`;
+      li.textContent = `${book.id} - ${book.title} by ${book.author}`;
       const removeButton = document.createElement("button");
       removeButton.textContent = "Remove";
       removeButton.addEventListener("click", () => {
