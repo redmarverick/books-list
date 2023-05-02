@@ -125,8 +125,8 @@ To run tests, run the following command:
 👤 **Nylbert Victor**
 
 - GitHub: [@Nylbert Victor](https://github.com/redmarverick)
-- Twitter: [@Nylbert Victor](https://twitter.com/)
-- LinkedIn: [Nylbert Victor](https://www.linkedin.com/)
+- Twitter: [@Nylbert Victor](https://twitter.com/MarverickRed)
+- LinkedIn: [Nylbert Victor](https://www.linkedin.com/in/nylbert-victor-397951120/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
