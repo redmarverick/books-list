@@ -122,12 +122,6 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ignacio FINO**
-
-- GitHub: [@alejuda](https://github.com/Alejuda)
-- Twitter: [@nacho_fino](https://twitter.com/nacho_fino)
-- LinkedIn: [Ignacio Fino](https://www.linkedin.com/in/ignacio-fino-320916209)
-
 👤 **Nylbert Victor**
 
 - GitHub: [@Nylbert Victor](https://github.com/redmarverick)
